@@ -1,0 +1,4 @@
+name: TrycsFrame
+version: 1.0
+main: dev.kirmgg.Main
+api-version: '1.21'
